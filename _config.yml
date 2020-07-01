@@ -1,5 +1,5 @@
 #page title
-page_title: Trnslt.me — удаленные переводчики в вашем смартфоне 24/7 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Trnslt.me — маркетплейс устных переводчиков с мгновенным подбором и оплатой # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: 1478569270 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,8 +12,8 @@ presskit_download_link:
 
 app_icon: /assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Trnslt.me # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: удаленные переводчики в вашем смартфоне 24/7 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Профессиональный голосовой перевод для бизнеса и личных дел в любое время дня и ночи. Вам больше не надо заранее искать переводчика, договариваться о времени, платить за срочность или работу в ночные часы.
+app_price: маркетплейс устных переводчиков с мгновенным подбором и оплатой # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description: Профессиональный голосовой перевод для бизнеса и личных дел 24/7. Вам больше не надо заранее искать переводчика, договариваться о времени, платить за срочность или работу в ночные часы.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
