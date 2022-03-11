@@ -111,4 +111,4 @@ I'd love to see the sites you create using this little tool.
 
 ## License
 [MIT License](LICENSE)
-# lingoplatform.github.io
+# trnslt.github.io
