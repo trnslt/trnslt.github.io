@@ -19,7 +19,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name: Lingo Team
-your_link: https://trnslt.me
+your_link: https://trnslt.github.io
 your_city: Moscow
 email_address: at@trnslt.me
 facebook_username:
